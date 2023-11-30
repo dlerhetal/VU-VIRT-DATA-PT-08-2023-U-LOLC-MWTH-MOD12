@@ -1,13 +1,14 @@
 # VU-VIRT-DATA-PT-08-2023-U-LOLC-MWTH-MOD12
 Module 12 Challenge for Vanderbilt Data Analytics November 2023
 
-There are 4 files and 1 folder located in this repository, as follows:
+There are 5 files and 1 folder located in this repository, as follows:
 
 This README text file 
 1 NoSQL_setup_starter.ipynb file 
 1 NoSQL_analysis_starter.ipynb file 
-1 folder named Resources
-1 establishments.json
+1 folder named Resources, containing establishments.json and establishments.zip
+1 establishments.json which is empty
+1 establishments.zip which is where the actual establishments.json is located
 
 Special Recognition: Ahmad Mousa is as passionate and caring as he is knowledgeable, and Joshua Steier never hesitates to help walk us through challenges. 
 
