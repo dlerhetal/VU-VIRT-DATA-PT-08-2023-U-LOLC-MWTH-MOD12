@@ -6,7 +6,7 @@ There are 5 files and 1 folder located in this repository, as follows:
 This README text file 
 1 NoSQL_setup_starter.ipynb file 
 1 NoSQL_analysis_starter.ipynb file 
-1 folder named Resources, containing establishments.json and establishments.zip
+1 folder named Resources (containing establishments.json and establishments.zip)
 1 establishments.json which is empty
 1 establishments.zip which is where the actual establishments.json is located
 
